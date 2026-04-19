@@ -1,6 +1,6 @@
 # pommepad 🍎
 
-<img width="2162" height="1256" alt="image" src="https://github.com/user-attachments/assets/2178fd6b-c7be-4d0d-9937-b410af58baac" />
+<img width="2162" height="1256" alt="image" src="pcb.png" />
 
 ## What is this?
 
@@ -17,7 +17,6 @@ I also just thought it would be fun to design a PCB that isn't a plain old recta
 - **6 mechanical key switches** — Fully programmable them :)
 - **Per-key RGB LEDs** — What can I say, they're cool
 - **OLED display** — Probably just to show something fun, or which app or layer I'm currently on.
-- **Silkscreened mom quotes** — This technically isn't a feature, but they're on the PCB and they're staying
 
 ## How does it work?
 
@@ -35,4 +34,4 @@ Unless someone would be open to teaching me... and I wouldn't be oppposed to tha
 
 Designed in KiCad, schematic and board files are in this repo! There is also a firmware test but do NOT rely on it whatsoever. (not like this project is getting touched anytime soon)
 
-Also, all my recordings on lapse are unlisted but if you want to see them LMK!! I will be so happy to show you how long I spent on this thing!!! 😭
+Case will be (soon) designed in Fusion 360!
